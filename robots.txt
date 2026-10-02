@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aubreyjonesp-design.github.io/a-taste-of-brazil/sitemap.xml
