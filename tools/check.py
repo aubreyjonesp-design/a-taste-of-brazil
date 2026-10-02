@@ -25,7 +25,7 @@ class Page(HTMLParser):
  def handle_endtag(self,tag):
   assert self.stack and self.stack.pop()==tag, ('Unbalanced HTML tag',tag)
   if tag=='script' and self.ld:self.schema.append(json.loads(self.data));self.ld=False
-pages={p:Page(p.read_text()) for p in R.glob('*.html') if p.name!='A-Taste-of-Brazil-corrected-1.html'}
+pages={p:Page(p.read_text()) for p in R.glob('*.html') if p.name not in {'A-Taste-of-Brazil-corrected-1.html','google1339ae9222e79136.html'}}
 pages.update({p:Page(p.read_text()) for p in (R/'articles').glob('*.html')} if (R/'articles').exists() else {})
 links=0;assets=0
 for p,page in pages.items():
