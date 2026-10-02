@@ -1,0 +1,12 @@
+{
+  "published": false,
+  "slug": "replace-with-approved-article-slug",
+  "title": "REPLACE WITH APPROVED ARTICLE TITLE",
+  "description": "REPLACE WITH A USEFUL SUMMARY",
+  "author": "REPLACE WITH CONFIRMED AUTHOR",
+  "approved_by": "REPLACE WITH AUTHOR APPROVAL RECORD",
+  "sections": [
+    {"heading": "REPLACE WITH HEADING", "paragraphs": ["REPLACE WITH APPROVED TEXT"]}
+  ],
+  "sources": [{"title": "REPLACE WITH SOURCE TITLE", "url": "REPLACE WITH GENUINE HTTPS SOURCE URL"}]
+}
