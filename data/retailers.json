@@ -5,5 +5,40 @@
     "url": "https://play.google.com/store/books/details/Edneia_Silveira_A_Taste_of_Brazil?id=nNATEgAAQBAJ",
     "format": "Ebook",
     "verified_in": "Approved repository homepage, commit abed85900135c5363cbc71560a1a9d774002ece1"
+  },
+  {
+    "id": "odilo-usa",
+    "name": "ODILO Marketplace USA",
+    "url": "https://marketplace.odilo.us/opac?id=09738748",
+    "format": "EPUB eBook · Marketplace listing; library purchases or licences are not confirmed",
+    "verified_in": "Confirmed by authors on 8 October 2026; ISBN 6610001387402; listed length 161 pages. Independent fetch blocked by Site Unavailable response."
+  },
+  {
+    "id": "fnac-france",
+    "name": "Fnac France",
+    "url": "https://www.fnac.com/livre-numerique/a23700009/Edneia-Silveira-A-Taste-of-Brazil",
+    "format": "English EPUB eBook",
+    "verified_in": "8 October 2026: matching title, authors and EAN 6610001387402; immediate download offered."
+  },
+  {
+    "id": "morawa-austria",
+    "name": "Morawa Austria",
+    "url": "https://www.morawa.at/detail/ISBN-2244095171902/Silveira-Edneia/A-Taste-of-Brazil",
+    "format": "English EPUB eBook",
+    "verified_in": "8 October 2026: matching title, authors and EAN 6610001387402; add-to-cart offered."
+  },
+  {
+    "id": "bol-belgium",
+    "name": "bol Belgium",
+    "url": "https://www.bol.com/be/fr/p/a-taste-of-brazil-ebook/9300000402026968/",
+    "format": "English EPUB3 eBook",
+    "verified_in": "8 October 2026: matching title, authors and EAN 6610001387402; in stock and immediately available."
+  },
+  {
+    "id": "bol-netherlands",
+    "name": "bol Netherlands",
+    "url": "https://www.bol.com/nl/nl/p/a-taste-of-brazil-ebook/9300000402026968/",
+    "format": "English EPUB3 eBook",
+    "verified_in": "8 October 2026: matching title, authors and EAN 6610001387402; in stock and immediately available."
   }
 ]
