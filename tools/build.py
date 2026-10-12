@@ -70,6 +70,10 @@ def metadata(path,title,description,prefix=''):
 <meta name="twitter:description" content="{e(description,quote=True)}">
 <meta name="twitter:image" content="{base}assets/cover.jpg">
 <meta name="twitter:image:alt" content="A Taste of Brazil book cover">
+<meta name="theme-color" content="#faf6e9">
+<meta name="color-scheme" content="light">
+<link rel="icon" href="{prefix}assets/cover.jpg" type="image/jpeg">
+<link rel="apple-touch-icon" href="{prefix}assets/cover.jpg">
 <link rel="stylesheet" href="{prefix}assets/hub.css">
 <script src="{prefix}assets/hub.js" defer></script>
 <script type="application/ld+json">{schema(path,title)}</script>'''
